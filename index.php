@@ -1,7 +1,10 @@
 <?php
 
-$servername = "localhost";
 
+//Variable para demostrar la funcionalidad del GitHub
+$Variable_Zabaleta_Estuvo_Aqui;
+
+$servername = "localhost";
 $dbname = "id18116251_variables";
 $username = "id18116251_root";
 $password = "Hr)!IvtiHrE{2B7%";
